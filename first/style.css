@@ -1,9 +1,8 @@
-
 body {
   margin: 25px;
   padding: 0;
-  }
-  #top {
+}
+#top {
   height: 130px;
   width: 100%;
   display: flex;
@@ -12,17 +11,17 @@ body {
 #left {
   height: 150px;
   width: 28%;
-background-color: #C9001A;
+  background-color: #C9001A;
 }
 #center {
   height: 150px;
   width: 28%;
-background-color: #4085DE;
+  background-color: #4085DE;
 }
 #right {
   height: 150px;
   width: 28%;
-background-color: #414141;
+  background-color: #414141;
 }
 #content {
   height: 250px;
@@ -56,11 +55,7 @@ background-color: #414141;
 }
 #bott {
   background-color: #414141;
-  width: 20%;
-  height: 100px;
-  float: right;
-  position: relative;
-  bottom: 125px;
-  right: 5%;
-  margin-top: 25px;
+  width: 70%;
+  height: 100%;
+  margin: auto;
 }
